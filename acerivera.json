@@ -1,201 +1,201 @@
 {
-basics: {
-name: "Don Joseph Rivera",
-label: "Mobile Developer",
-picture: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAN3AAAAJDY5NjFjMDA5LTg4ZTktNDRkZi1hMTU4LWM5ZWRmZTkxZmM2OA.jpg",
-email: "joseph.rivera@flightdigitalmedia.com",
-phone: "+639173774329"
-},
-education: [
-{
-institution: "University of the Philippines, Diliman",
-course: "BS Computer Science",
-studyType: "Bachelor",
-startDate: "2009",
-endDate: "2013"
-}
-],
-skills: [
-{
-category: "Programming Languages",
-technologies: [
-{
-name: "Swift",
-number_of_years: 2
-},
-{
-name: "Objective-C",
-number_of_years: 2
-},
-{
-name: "C",
-number_of_years: 2
-},
-{
-name: "C++",
-number_of_years: 2
-},
-{
-name: "Java",
-number_of_years: 2
-}
-]
-},
-{
-category: "Mobile Platforms",
-technologies: [
-{
-name: "iOS",
-number_of_years: 2
-},
-{
-name: "Android",
-number_of_years: 2
-},
-{
-name: "Tizen",
-number_of_years: 1
-}
-]
-},
-{
-category: "Development Environment",
-technologies: [
-{
-name: "XCode",
-number_of_years: 2
-},
-{
-name: "Eclipse",
-number_of_years: 2
-},
-{
-name: "Android Studio",
-number_of_years: 1
-}
-]
-},
-{
-category: "Source Control",
-technologies: [
-{
-name: "Git",
-number_of_years: 2
-},
-{
-name: "Perforce",
-number_of_years: 2
-}
-]
-},
-{
-category: "Operating System",
-technologies: [
-{
-name: "Windows",
-number_of_years: 4
-},
-{
-name: "MacOS",
-number_of_years: 2
-}
-]
-},
-{
-category: "Miscellaneous",
-technologies: [
-{
-name: "SIP",
-number_of_years: 2
-},
-{
-name: "IMS",
-number_of_years: 2
-},
-{
-name: "VoLTE",
-number_of_years: 2
-}
-]
-}
-],
-work: [
-{
-projects: [
-{
-name: "Kenzai",
-description: "Kenzai is a mobile fitness application that helps users stay fit and healty with the help of real trainers, nutritionist and support team. It helps in keeping track of the users nutrition and exercise as well as educate and motivate them even after the 90-day progam offered.",
-role: "iOS Developer",
-startDate: "2016",
-endDate: "2016",
-technologies: "iOS, Swift"
-},
-{
-name: "Haikuism",
-description: "An iOS application which allows its users to compose and share their Haikus in-app or in social media. Users can also exchange Haikus with one another and draw inspiration from their friends by using their haikus in creating a collection.",
-role: "iOS Developer",
-startDate: "2016",
-endDate: "2016",
-technologies: "iOS, Swift"
-},
-{
-name: "Zukii",
-description: "Zukii application aims to help small-medium entrepreneurs  in starting their businesses as well as giving rewards to loyal customers who purchase and endorse existing shops and/or products through social networking sites. Moreover it is an e-commerce application that provides ensured delivery that puts the customer’s concerns as top priority.",
-role: "iOS Developer",
-startDate: "2016",
-endDate: "present",
-technologies: "iOS, Swift"
-},
-{
-name: "Multimedia Applications and Framework",
-description: "Handles multimedia module for all Samsung mobile devices, including Video Application, Music Player, Video/Audio Framework, Gallery and My Files",
-role: "Android Developer/Debugger",
-startDate: "2013",
-endDate: "2015",
-technologies: "Android, Java, C, C++"
-},
-{
-name: "Voice Over LTE",
-description: "Voice over LTE setup for AU TelCos (Telstra, Optus, Vodafone), pioneer engineer who works with different RnDs around the globe to improve the new technology",
-role: "VoLTE Engineer",
-startDate: "2014",
-endDate: "2016",
-technologies: "Android, Java, SIP, IMS, QXDM"
-},
-{
-name: "Samsung Cloud Printer (SCP)",
-description: "SCP is a mobile application that allows its users to print anytime and anywhere as long as the printer is registered to the cloud. You can also share a printer to your contact list for them to use and send you a document if needed.",
-role: "iOS Developer",
-startDate: "2015",
-endDate: "2016",
-technologies: "iOS, Swift, REST"
-},
-{
-name: "Mobile Print (MP)",
-description: "MP is a mobile application that allows its users to print documents using printers connected to same network as the device. It also has the ability to perform scanning and an online ordering of ink depending on the printer you wish to use.",
-role: "iOS Developer",
-startDate: "2015",
-endDate: "2016",
-technologies: "iOS, Swift, REST"
-},
-{
-name: "Samsung Printer Diagnostic System (SPDS)",
-description: "SPDS is a diagnostic application for Samsung printers. It can also be used to control the printer remotely and test the hardware and its functionalities. Lastly, it can be used to generate a full report of the current state of the printer being tested.",
-role: "iOS Developer",
-startDate: "2015",
-endDate: "2016",
-technologies: "iOS, Swift, REST"
-},
-{
-name: "Audio Only Mode for Video Playback",
-description: "Filed local and international patent for Signal Processing with Operating State-Dependent Handling of Multimedia Attributes",
-role: "Lead Innovator",
-startDate: "2015",
-endDate: "2016",
-technologies: "Android, Java"
-}
-]
-}
-],
-certification: [ ]
+  "basics": {
+    "name": "Don Joseph Rivera",
+    "label": "Mobile Developer",
+    "picture": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAN3AAAAJDY5NjFjMDA5LTg4ZTktNDRkZi1hMTU4LWM5ZWRmZTkxZmM2OA.jpg",
+    "email": "joseph.rivera@flightdigitalmedia.com",
+    "phone": "+639173774329"
+  },
+  "education": [
+    {
+      "institution": "University of the Philippines, Diliman",
+      "course": "BS Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2009",
+      "endDate": "2013"
+    }
+  ],
+  "skills": [
+    {
+      "category": "Programming Languages",
+      "technologies": [
+        {
+          "name": "Swift",
+          "number_of_years": 2
+        },
+        {
+          "name": "Objective-C",
+          "number_of_years": 2
+        },
+        {
+          "name": "C",
+          "number_of_years": 2
+        },
+        {
+          "name": "C++",
+          "number_of_years": 2
+        },
+        {
+          "name": "Java",
+          "number_of_years": 2
+        }
+      ]
+    },
+    {
+      "category": "Mobile Platforms",
+      "technologies": [
+        {
+          "name": "iOS",
+          "number_of_years": 2
+        },
+        {
+          "name": "Android",
+          "number_of_years": 2
+        },
+        {
+          "name": "Tizen",
+          "number_of_years": 1
+        }
+      ]
+    },
+    {
+      "category": "Development Environment",
+      "technologies": [
+        {
+          "name": "XCode",
+          "number_of_years": 2
+        },
+        {
+          "name": "Eclipse",
+          "number_of_years": 2
+        },
+        {
+          "name": "Android Studio",
+          "number_of_years": 1
+        }
+      ]
+    },
+    {
+      "category": "Source Control",
+      "technologies": [
+        {
+          "name": "Git",
+          "number_of_years": 2
+        },
+        {
+          "name": "Perforce",
+          "number_of_years": 2
+        }
+      ]
+    },
+    {
+      "category": "Operating System",
+      "technologies": [
+        {
+          "name": "Windows",
+          "number_of_years": 4
+        },
+        {
+          "name": "MacOS",
+          "number_of_years": 2
+        }
+      ]
+    },
+    {
+      "category": "Miscellaneous",
+      "technologies": [
+        {
+          "name": "SIP",
+          "number_of_years": 2
+        },
+        {
+          "name": "IMS",
+          "number_of_years": 2
+        },
+        {
+          "name": "VoLTE",
+          "number_of_years": 2
+        }
+      ]
+    }
+  ],
+  "work": [
+    {
+      "projects": [
+        {
+          "name": "Kenzai",
+          "description": "Kenzai is a mobile fitness application that helps users stay fit and healty with the help of real trainers, nutritionist and support team. It helps in keeping track of the users nutrition and exercise as well as educate and motivate them even after the 90-day progam offered.",
+          "role": "iOS Developer",
+          "startDate": "2016",
+          "endDate": "2016",
+          "technologies": "iOS, Swift"
+        },
+        {
+          "name": "Haikuism",
+          "description": "An iOS application which allows its users to compose and share their Haikus in-app or in social media. Users can also exchange Haikus with one another and draw inspiration from their friends by using their haikus in creating a collection.",
+          "role": "iOS Developer",
+          "startDate": "2016",
+          "endDate": "2016",
+          "technologies": "iOS, Swift"
+        },
+        {
+          "name": "Zukii",
+          "description": "Zukii application aims to help small-medium entrepreneurs  in starting their businesses as well as giving rewards to loyal customers who purchase and endorse existing shops and/or products through social networking sites. Moreover it is an e-commerce application that provides ensured delivery that puts the customer’s concerns as top priority.",
+          "role": "iOS Developer",
+          "startDate": "2016",
+          "endDate": "present",
+          "technologies": "iOS, Swift"
+        },
+   	{
+          "name": "Multimedia Applications and Framework",
+          "description": "Handles multimedia module for all Samsung mobile devices, including Video Application, Music Player, Video/Audio Framework, Gallery and My Files",
+          "role": "Android Developer/Debugger",
+          "startDate": "2013",
+          "endDate": "2015",
+          "technologies": "Android, Java, C, C++"
+        },
+        {
+          "name": "Voice Over LTE",
+          "description": "Voice over LTE setup for AU TelCos (Telstra, Optus, Vodafone), pioneer engineer who works with different RnDs around the globe to improve the new technology",
+          "role": "VoLTE Engineer",
+          "startDate": "2014",
+          "endDate": "2016",
+          "technologies": "Android, Java, SIP, IMS, QXDM"
+        },
+        {
+          "name": "Samsung Cloud Printer (SCP)",
+          "description": "SCP is a mobile application that allows its users to print anytime and anywhere as long as the printer is registered to the cloud. You can also share a printer to your contact list for them to use and send you a document if needed.",
+          "role": "iOS Developer",
+          "startDate": "2015",
+          "endDate": "2016",
+          "technologies": "iOS, Swift, REST"
+        },
+        {
+          "name": "Mobile Print (MP)",
+          "description": "MP is a mobile application that allows its users to print documents using printers connected to same network as the device. It also has the ability to perform scanning and an online ordering of ink depending on the printer you wish to use.",
+          "role": "iOS Developer",
+          "startDate": "2015",
+          "endDate": "2016",
+          "technologies": "iOS, Swift, REST"
+        },
+        {
+          "name": "Samsung Printer Diagnostic System (SPDS)",
+          "description": "SPDS is a diagnostic application for Samsung printers. It can also be used to control the printer remotely and test the hardware and its functionalities. Lastly, it can be used to generate a full report of the current state of the printer being tested.",
+          "role": "iOS Developer",
+          "startDate": "2015",
+          "endDate": "2016",
+          "technologies": "iOS, Swift, REST"
+        },
+        {
+          "name": "Audio Only Mode for Video Playback",
+          "description": "Filed local and international patent for Signal Processing with Operating State-Dependent Handling of Multimedia Attributes",
+          "role": "Lead Innovator",
+          "startDate": "2015",
+          "endDate": "2016",
+          "technologies": "Android, Java"
+        }
+      ]
+    }
+  ],
+  "certification": []
 }
